@@ -5,4 +5,8 @@ ESP32-CAM 上传代码按键流程/ESP32 CAM CodeUpload Button Process
 
 CodeUpload：Click 'Code upload' on Arduino IDE -->Press and Hold the button  IO0 & RST on development board 
 ---->when the 'Connecting .......' message shows up in Arduino IDE ,then release 'RST' & 'IOT' by sequence.
+
 https://gitee.com/xv-shuai/ESP32-CAM-Arduino-IDE/tree/master
+
+Tips:
+1.If u have problem with microSD read/write, try to change another one with better quality.
