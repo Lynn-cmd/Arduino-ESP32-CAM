@@ -232,3 +232,4 @@ void capturePhotoSaveSpiffs( void ) {
     ok = checkPhoto(SPIFFS);
   } while ( !ok );
 }
+
