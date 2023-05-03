@@ -10,17 +10,30 @@ https://gitee.com/xv-shuai/ESP32-CAM-Arduino-IDE/tree/master
 
 Tips:
 1).If u have problem with microSD read/write, try to change another one with better quality.
+
 2).ESP32-CAM Troubleshooting Guide: Most Common Problems Fixed
+
 https://randomnerdtutorials.com/esp32-cam-troubleshooting-guide/
 Most common errors:
 Failed to connect to ESP32: Timed out waiting for packet header
+
 Camera init failed with error 0x20001 or similar
+
 Brownout detector or Guru meditation error
+
 Sketch too big error – Wrong partition scheme selected
+
 Board at COMX is not available – COM Port Not Selected
+
 Psram error: GPIO isr service is not installed
+
 Weak Wi-Fi Signal
+
 No IP Address in Arduino IDE Serial Monitor
+
 Can’t open web server
+
 The image lags/shows lots of latency
+
 esp_camera_fb_get(): Failed to get the frame on time!
+
