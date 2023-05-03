@@ -20,7 +20,7 @@ Failed to connect to ESP32: Timed out waiting for packet header
 Camera init failed with error 0x20001 or similar
 
 Brownout detector or Guru meditation error
-If it reports:  Brownout detector or Guru meditation error
+If it reports:  Brownout detector or Guru meditation error,
  **try to change another better quality USB cable ,or change to a better 5v USB power supplier.** 
 
 Sketch too big error – Wrong partition scheme selected
